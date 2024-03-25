@@ -84,9 +84,6 @@ The Gmail Operations API project relies on the following third-party libraries a
 
 ## Here is the video demonstration 
 
-<video width="560" height="315" controls>
-    <source src="/gmail_operations_api/gmail_script/media/New Project.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+[![Watch the video](https://img.youtube.com/vi/cA7C_1_NpGw/maxresdefault.jpg)](https://www.youtube.com/watch?v=cA7C_1_NpGw)
 
 
